@@ -1,0 +1,44 @@
+{
+  "name": "zen-quotes",
+  "version": "1.5.0",
+  "description": "Zen-Quotes is your source for daily inspiration and motivation. Retrieve thoughtful quotes that uplift your spirit and promote mindfulness, helping you stay inspired throughout the day.",
+  "type": "commonjs",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha --require esm test/**/*.test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mian-ali/zen-quotes.git"
+  },
+  "keywords": [
+    "inspiration",
+    "motivational",
+    "quotes",
+    "inspiration quotes",
+    "motivational quotes",
+    "zen quotes",
+    "daily quotes",
+    "mindfulness quotes",
+    "uplifting quotes",
+    "motivation",
+    "positive quotes",
+    "quote generator",
+    "quotes for success",
+    "quotes for life",
+    "quotes for positivity",
+    "self-improvement quotes",
+    "quotes to inspire"
+  ],
+  "author": "Ali Ahmad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mian-ali/zen-quotes/issues"
+  },
+  "homepage": "https://github.com/mian-ali/zen-quotes#readme",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "esm": "^3.2.25",
+    "mocha": "^10.4.0"
+  }
+}
