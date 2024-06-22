@@ -1,7 +1,7 @@
 # Zen Quotes
 
 [![NPM Version](http://img.shields.io/npm/v/zen-quotes.svg?style=flat&logo=npm)](https://www.npmjs.org/package/zen-quotes)
-[![GitHub license](https://img.shields.io/github/license/your-github-username/zen-quotes.svg?style=flat&logo=github)](https://github.com/mian-ali/zen-quotes/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/mian-ali/zen-quotes.svg?style=flat&logo=github)](https://github.com/mian-ali/zen-quotes/blob/publish/LICENSE)
 [![npm collaborators](https://img.shields.io/npm/collaborators/zen-quotes.svg?logo=npm)](https://www.npmjs.com/package/zen-quotes)
 [![Snyk Vulnerabilities for npm package version](https://img.shields.io/snyk/vulnerabilities/npm/zen-quotes.svg?color=9cf&logo=snyk)](https://www.npmjs.com/package/zen-quotes)
 [![npm](https://img.shields.io/npm/dy/zen-quotes.svg?logo=npm&color=yellow)](https://www.npmjs.com/package/zen-quotes)
