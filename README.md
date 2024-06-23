@@ -50,19 +50,19 @@ console.log(dayOfQuote);
 
 Fetches quotes based on the specified options.
 
-
+<!--
 | Name             | Type     | Description                                                                                      |
 |------------------|----------|--------------------------------------------------------------------------------------------------|
 | **category**     | string   | The category of quotes. Required. Available categories: **Programming, Education, Trading, Business, Life, Fitness, Creativity, Leadership**. |
 | **author**       | boolean  | Whether to include the author's name. Optional. Default is **true**.                              |
-| **numberOfQuotes** | number  | The number of quotes to return. Optional. Default is **1**.                                       |
+| **numberOfQuotes** | number  | The number of quotes to return. Optional. Default is **1**.                                       | -->
 
 
-<!--
+
 - **options**: An object with the following properties:
   - `author` (boolean): Whether to include the author's name. Default is `true`.
   - `numberOfQuotes` (number): The number of quotes to return. Default is `1`.
-  - `category` (string): The category of quotes. Available categories: Programming, Education, Trading, Business, Life, Fitness, Creativity, Leadership. -->
+  - `category` (string): The category of quotes. Available categories: Programming, Education, Trading, Business, Life, Fitness, Creativity, Leadership.
 
 Returns an array of quotes based on the specified options.
 
@@ -85,12 +85,12 @@ Example:
 
 Fetches a random quote from the specified category.
 
-| Name             | Type     | Description                                                                                      |
+<!--- | Name             | Type     | Description                                                                                      |
 |------------------|----------|--------------------------------------------------------------------------------------------------|
-| **category**     | string   | The category of quotes. Required. Available categories: **Programming, Education, Trading, Business, Life, Fitness, Creativity, Leadership**. |
+| **category**     | string   | The category of quotes. Required. Available categories: **Programming, Education, Trading, Business, Life, Fitness, Creativity, Leadership**. | --->
 
 
-<!---  - `category` (string): The category of quotes. Available categories: Programming, Education, Trading, Business, Life, Fitness, Creativity, Leadership. --->
+  - `category` (string): The category of quotes. Available categories: Programming, Education, Trading, Business, Life, Fitness, Creativity, Leadership.
 
 Returns an array of quotes based on the specified options.
 
@@ -119,3 +119,29 @@ Example:
 }
 
 ```
+
+## Examples
+
+To view the examples, clone the **zen-quotes** repo and install the dependencies:
+
+```bash
+$ git clone https://github.com/mian-ali/zen-quotes.git
+$ cd zen-quotes
+$ npm install
+```
+
+Then run the [`examples/index.js`](./examples/index.js):
+
+```bash
+$ node index.js
+```
+
+## Tests
+
+- `npm run test`: Runs unit tests
+- `npm run format`: Run eslint format
+
+
+## Author 
+ **[Ali Ahmad](https://github.com/mian-ali)**                      
+
