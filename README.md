@@ -1,7 +1,10 @@
 # Motivate Quotes
 
+[![NPM Version](http://img.shields.io/npm/v/motivate-quotes.svg?style=flat&logo=npm)](https://www.npmjs.org/package/motivate-quotes)
 [![GitHub license](https://img.shields.io/github/license/mian-ali/motivate-quotes.svg?style=flat&logo=github)](https://github.com/mian-ali/motivate-quotes/blob/publish/LICENSE)
+[![Snyk Vulnerabilities for npm package version](https://img.shields.io/snyk/vulnerabilities/npm/motivate-quotes.svg?color=9cf&logo=snyk)](https://www.npmjs.com/package/motivate-quotes)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/mian-ali/motivate-quotes/pulls)
+
 
 **Motivate Quotes is an [NPM](https://www.npmjs.com/package/motivate-quotes) package that provides inspiring and motivational quotes from various categories such as Programming, Education, Trading, Business, Life, Fitness, Creativity, and Leadership.**
 
