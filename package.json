@@ -1,7 +1,7 @@
 {
-  "name": "zen-quotes",
+  "name": "motivate-quotes",
   "version": "1.0.0",
-  "description": "Zen-Quotes is your source for daily inspiration and motivation. Retrieve thoughtful quotes that uplift your spirit and promote mindfulness, helping you stay inspired throughout the day.",
+  "description": "Motivate-quotes is your source for daily inspiration and motivation. Retrieve thoughtful quotes that uplift your spirit and promote mindfulness, helping you stay inspired throughout the day.",
   "type": "commonjs",
   "main": "lib/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mian-ali/zen-quotes.git"
+    "url": "git+https://github.com/mian-ali/motivate-quotes.git"
   },
   "keywords": [
     "quotes",
@@ -25,13 +25,12 @@
     "daily",
     "quote",
     "self-improvement quotes"
-
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mian-ali/zen-quotes/issues"
+    "url": "https://github.com/mian-ali/motivate-quotes/issues"
   },
-  "homepage": "https://github.com/mian-ali/zen-quotes#readme",
+  "homepage": "https://github.com/mian-ali/motivate-quotes#readme",
   "devDependencies": {
     "chai": "^5.1.1",
     "esm": "^3.2.25",

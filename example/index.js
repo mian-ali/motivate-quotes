@@ -1,4 +1,4 @@
-const { getQuotes, getRandomQuote, getDayOfQuote } = require('zen-quotes');
+const { getQuotes, getRandomQuote, getDayOfQuote } = require('motivate-quotes');
 
 // Example usage:
 const quotes = getQuotes({
