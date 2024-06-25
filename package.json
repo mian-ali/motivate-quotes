@@ -1,7 +1,7 @@
 {
   "name": "motivate-quotes",
-  "version": "1.0.0",
-  "description": "Motivate-quotes is your source for daily inspiration and motivation. Retrieve thoughtful quotes that uplift your spirit and promote mindfulness, helping you stay inspired throughout the day.",
+  "version": "1.0.1",
+  "description": "Motivate-quotes is your daily inspiration and motivation source. Retrieve thoughtful quotes that uplift your spirit and promote mindfulness, helping you stay inspired throughout the day.",
   "type": "commonjs",
   "main": "lib/index.js",
   "scripts": {
