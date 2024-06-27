@@ -57,17 +57,13 @@ console.log(dayOfQuote);
 
 Fetches quotes based on the specified options.
 
-<!--
+
 | Name             | Type     | Description                                                                                      |
 |------------------|----------|--------------------------------------------------------------------------------------------------|
 | **category**     | string   | The category of quotes. Required. Available categories: **Programming, Education, Trading, Business, Life, Fitness, Creativity, Leadership**. |
 | **author**       | boolean  | Whether to include the author's name. Optional. Default is **true**.                              |
-| **numberOfQuotes** | number  | The number of quotes to return. Optional. Default is **1**.                                       | -->
+| **numberOfQuotes** | number  | The number of quotes to return. Optional. Default is **1**.                                       | 
 
-- **options**: An object with the following properties:
-  - `author` (boolean): Whether to include the author's name. Default is `true`.
-  - `numberOfQuotes` (number): The number of quotes to return. Default is `1`.
-  - `category` (string): The category of quotes. Available categories: Programming, Education, Trading, Business, Life, Fitness, Creativity, Leadership.
 
 Returns an array of quotes based on the specified options.
 
@@ -90,11 +86,10 @@ Example:
 
 Fetches a random quote from the specified category.
 
-<!--- | Name             | Type     | Description                                                                                      |
+| Name             | Type     | Description                                                                                      |
 |------------------|----------|--------------------------------------------------------------------------------------------------|
-| **category**     | string   | The category of quotes. Required. Available categories: **Programming, Education, Trading, Business, Life, Fitness, Creativity, Leadership**. | --->
+| **category**     | string   | The category of quotes. Required. Available categories: **Programming, Education, Trading, Business, Life, Fitness, Creativity, Leadership**. | 
 
-- `category` (string): The category of quotes. Available categories: Programming, Education, Trading, Business, Life, Fitness, Creativity, Leadership.
 
 Returns an array of quotes based on the specified options.
 
@@ -143,6 +138,22 @@ $ node index.js
 - `npm run test`: Runs unit tests
 - `npm run format`: Run eslint format
 
+## Contributors
+
+Contributors are individuals who have made significant contributions to a project. They play a crucial role in the development and success of open-source projects by contributing code, documentation, bug fixes, and other valuable contributions.
+
+If you would like to become a contributor to this project, please follow these steps:
+
+1. Fork the project repository.
+2. Make the necessary changes or additions to the codebase.
+3. Test your changes thoroughly to ensure they do not introduce any issues.
+4. Submit a pull request to the original repository, detailing the changes you have made and why they are beneficial.
+
+Please note that all contributions are subject to review and approval by the project maintainers. Your contributions should align with the project's guidelines and coding standards.
+
+Thank you for considering becoming a contributor to this project. Your contributions are greatly appreciated!
+
+
 ## Author
 
-**[Ali Ahmad](https://github.com/mian-ali)**
+**[Ali Ahmad](https://aliahmad.co)**
