@@ -147,9 +147,9 @@ If you would like to become a contributor to this project, please follow these s
 1. Fork the project repository.
 2. Make the necessary changes or additions to the codebase.
 3. Test your changes thoroughly to ensure they do not introduce any issues.
-4. Submit a pull request to the original repository, detailing the changes you have made and why they are beneficial.
+4. Submit a pull request to the original repository, detailing your changes and why they are beneficial.
 
-Please note that all contributions are subject to review and approval by the project maintainers. Your contributions should align with the project's guidelines and coding standards.
+> **Note**: So that you know, all contributions are subject to review and approval by the project maintainers. Your contributions should align with the project's guidelines and coding standards.
 
 Thank you for considering becoming a contributor to this project. Your contributions are greatly appreciated!
 
