@@ -61,8 +61,8 @@ Fetches quotes based on the specified options.
 | Name             | Type     | Description                                                                                      |
 |------------------|----------|--------------------------------------------------------------------------------------------------|
 | **category**     | string   | The category of quotes. Required. Available categories: **Programming, Education, Trading, Business, Life, Fitness, Creativity, Leadership**. |
-| **author**       | boolean  | Whether to include the author's name. Optional. Default is **true**.                              |
-| **numberOfQuotes** | number  | The number of quotes to return. Optional. Default is **1**.                                       | 
+| **author**       | boolean  | Whether to include the author's name. Optional. The default is **true**.                              |
+| **numberOfQuotes** | number  | The number of quotes to return. Optional. The default is **1**.                                       | 
 
 
 Returns an array of quotes based on the specified options.
