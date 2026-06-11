@@ -156,4 +156,4 @@ Thank you for considering becoming a contributor to this project. Your contribut
 
 ## Author
 
-**[Ali Ahmad](https://aliahmad.co)**
+**[Ali Ahmad](https://www.linkedin.com/in/aliahmad14)**
